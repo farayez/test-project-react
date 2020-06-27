@@ -1,5 +1,6 @@
 {
-    "editor.formatOnSave": true,
-    "prettier.useTabs": true,
-    "diffEditor.ignoreTrimWhitespace": false
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"prettier.printWidth": 110
 }
